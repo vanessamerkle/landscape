@@ -168,6 +168,22 @@ landscape:
             logo: kubefirst.svg
             crunchbase: https://www.crunchbase.com/organization/kubefirst
           - item:
+            name: KubeOps HUB 
+            description: self-sufficient packages can be published, downloaded via the KubeOps HUB.
+            homepage_url: https://kubeops.net/
+            logo: HUB.svg
+            twitter: https://twitter.com/kubeops_net
+            youtube_url: https://www.youtube.com/channel/UCGFrik0cvus8O1H2VMWClqA
+            crunchbase: https://www.crunchbase.com/organization/kubernative
+          - item:
+            name: KubeOps SINA 
+            description: tool to ease software delivery even in complex environments. It enables software developers to create self-sufficient packages. 
+            homepage_url: https://kubeops.net/
+            logo: SINA.svg
+            twitter: https://twitter.com/kubeops_net
+            youtube_url: https://www.youtube.com/channel/UCGFrik0cvus8O1H2VMWClqA
+            crunchbase: https://www.crunchbase.com/organization/kubernative
+          - item:
             name: LinuxKit
             homepage_url: https://github.com/linuxkit/linuxkit
             repo_url: https://github.com/linuxkit/linuxkit
@@ -3883,6 +3899,14 @@ landscape:
               accepted: '2020-06-23'
               dev_stats_url: https://keptn.devstats.cncf.io/
               youtube_url: https://www.youtube.com/channel/UCHMn9HyAMeb81bRlaOuZyuQ
+      - item:
+            name: KubeOps PIA 
+            description: cluster infrastructure manager 
+            homepage_url: https://kubeops.net/
+            logo: PIA.svg
+            twitter: https://twitter.com/kubeops_net
+            youtube_url: https://www.youtube.com/channel/UCGFrik0cvus8O1H2VMWClqA
+            crunchbase: https://www.crunchbase.com/organization/kubernative     
           - item:
             name: Octopus Deploy
             homepage_url: https://octopus.com/
